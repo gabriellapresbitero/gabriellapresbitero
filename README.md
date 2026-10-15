@@ -1,8 +1,6 @@
 ## Gabi Presbítero
 
-Estudante de Análise e Desenvolvimento de Sistemas na UNIT, no Recife. Antes veio a formação
-em bioquímica, e dela ficou um hábito que levo pra tudo: perguntar *por que* uma coisa
-funciona antes de sair repetindo que funciona.
+Estudante de Análise e Desenvolvimento de Sistemas na UNIT, no Recife.
 
 Os projetos aqui seguem todos a mesma regra: um problema que existe fora do exercício, dado
 público de verdade, e um README que explica o porquê, não só o como.
